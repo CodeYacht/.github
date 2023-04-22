@@ -8,6 +8,6 @@
 <p align="center">
   <a href="https://github.com/Code-Yacht"><img width="5%" src="https://user-images.githubusercontent.com/91791257/233765947-e8534a93-c852-43e7-a71e-aa0e665322f1.png"></a>
   <a href="https://www.linkedin.com/company/CodeYacht"><img width="5%" src="https://user-images.githubusercontent.com/91791257/233765953-5a0959c8-920f-41c2-93a5-44a34062f7b9.png"></a> 
-  <a href="https://twitter.com/CodeYacht"><img width="5%" src="https://user-images.githubusercontent.com/91791257/233765956-75c28dbb-410e-4579-bc5f-04685054ecd1.png">
+  <a href="https://twitter.com/CodeYacht"><img width="5%" src="https://user-images.githubusercontent.com/91791257/233765956-75c28dbb-410e-4579-bc5f-04685054ecd1.png"></a>
   <a href="https://discord.gg/feXE3xwmCS"><img width="5%" src="https://user-images.githubusercontent.com/91791257/233765959-00a4b588-5195-4de8-b092-55ac33e86ecd.png"></a>
 </p>
