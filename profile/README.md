@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Welcome To <b> Code Yacht! </b> </h1>
-    <img width="20%" src="https://user-images.githubusercontent.com/91791257/233765563-67989201-a92a-4c7d-881c-4b02b370770a.png">
+    <a href="https://twitter.com/CodeYacht"><img width="20%" src="https://user-images.githubusercontent.com/91791257/233765563-67989201-a92a-4c7d-881c-4b02b370770a.png">     </a>
     <p>  </p>
     <p> Code Yacht is a student community for learning and practicing coding on our open source Github organization. We believe in collaboration, inclusivity, and growth, and welcome students of all levels to join us.</p>
     <p>Learn more about GitHub, Open Source and Code Yacht by Following our Socials and joining our Discord Server : </p>   
